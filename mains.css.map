@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACGA,AAAA,CAAC,AAAA,CACG,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,UAAU,CAEzB,AAED,AAAA,IAAI,AAAA,CACA,SAAS,CAAE,KAAK,CACnB",
+    "sources": [
+        "sass/mains.scss",
+        "sass/__variables.scss"
+    ],
+    "names": [],
+    "file": "mains.css"
+}
